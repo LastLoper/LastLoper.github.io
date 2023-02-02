@@ -9,7 +9,7 @@ image: /img/2023-01-21/about-native-app.jpg
 hero_height: is-medium
 hero_darken: true
 series: posts
-published: true
+published: false
 ---
 
 난 iOS Native App 개발자다.
