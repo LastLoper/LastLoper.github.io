@@ -52,8 +52,8 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
-  # - kramdown-parser-gfm
-  # - jekyll-redirect-from
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,7 +63,7 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
+exclude: 
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -72,9 +72,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  # - .sass-cache/
-  # - .jekyll-cache/
-  # - gemfiles/
 
 collections:
   products: 
@@ -82,3 +79,6 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
+markdown: kramdown
+highlighter: rouge    
