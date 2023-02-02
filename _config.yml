@@ -27,6 +27,7 @@ url: "http://loperz.com" # the base hostname & protocol for your site, e.g. http
 # twitter_username: jekyllrb
 # github_username:  jekyll
 fixed_navbar: top
+remote_theme: chrisrhymes/bulma-clean-theme
 
 # Build settings
 # theme: minima
