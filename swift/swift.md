@@ -1,5 +1,6 @@
 ---
 layout: page
+menubar: swift_menu
 title: 애플의 강력한 프로그래밍 언어, Swift
 subtitle: Fast, Safe, Expressive
 hero_image: /img/swift/swift_hero2.png
