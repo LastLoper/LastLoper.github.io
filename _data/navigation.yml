@@ -1,11 +1,21 @@
-- name: Swift
+- name: 언어
   link: /swift/
-- name: iOS
+  dropdown: 
+    - name: Swift
+      link: /swift/
+    - name: Objective-C
+      link: /objective-c/
+    - name: RxSwift
+      link: /rxswift/started/rxswift/
+    - name: Java
+      link: /java/
+- name: 플랫폼
   link: /ios/started/ios/
-- name: GCD
-  link: /gcd/started/gcd/
-- name: RxSwift
-  link: /rxswift/started/rxswift/
+  dropdown: 
+    - name: iOS
+      link: /ios/started/ios/
+    - name: Android
+      link: /aos/started/aos/
 - name: Network
   link: /network/started/network/
 - name: Xcode

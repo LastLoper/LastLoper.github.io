@@ -21,6 +21,8 @@
       link: /swift/grammer/generics/generics/
     - name: Optional
       link: /swift/grammer/optional/optional/
+    - name: GCD
+      link: /gcd/started/gcd/
     - name: ARC
       link: /swift/grammer/arc/arc/
     - name: Property Observer
