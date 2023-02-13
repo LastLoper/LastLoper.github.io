@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://loperz.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+permalink: pretty
 fixed_navbar: top
 remote_theme: chrisrhymes/bulma-clean-theme
 
