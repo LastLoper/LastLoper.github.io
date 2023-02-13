@@ -1,6 +1,6 @@
 - label: Started
   items:
-    - name: RxSwift란?
+    - name: RxSwift 특징
       link: /rxswift/started/rxswift/
 
 - label: Grammer

@@ -1,26 +1,25 @@
-- name: 언어
-  link: /swift/
+- name: iOS
+  link: /ios/started/ios/
   dropdown: 
     - name: Swift
       link: /swift/
+    - name: RxSwift
+      link: /rxswift/started/rxswift/  
     - name: Objective-C
       link: /objective-c/
-    - name: RxSwift
-      link: /rxswift/started/rxswift/
+    - name: Xcode
+      link: /xcode/started/xcode/
+- name: Android
+  link: /aos/started/aos/
+  dropdown:
+    - name: Kotlin
+      link: /kotlin/started/kotlin/
     - name: Java
-      link: /java/
-- name: 플랫폼
-  link: /ios/started/ios/
-  dropdown: 
-    - name: iOS
-      link: /ios/started/ios/
-    - name: Android
-      link: /aos/started/aos/
+      link: /java/started/java/
+    - name: Android Studio
+      link: /android-studio/
 - name: Network
-  # link: /network/started/network/
-  link: /java/
-- name: Xcode
-  link: /xcode/started/xcode/
+  link: /network/started/network/
 - name: Git
   link: /git/started/git/
 - name: CS
