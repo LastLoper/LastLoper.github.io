@@ -1,12 +1,10 @@
 - name: iOS
   link: /ios/started/ios/
   dropdown: 
-    - name: Swift
-      link: /swift/
+    - name: 개발언어
+      link: /swift/started/swift/
     - name: RxSwift
-      link: /rxswift/started/rxswift/  
-    - name: Objective-C
-      link: /objective-c/
+      link: /rxswift/started/rxswift/
     - name: Xcode
       link: /xcode/started/xcode/
 - name: Android
@@ -18,12 +16,12 @@
       link: /java/started/java/
     - name: Android Studio
       link: /android-studio/
+- name: CS
+  link: /cs/started/cs/
 - name: Network
   link: /network/started/network/
 - name: Git
   link: /git/started/git/
-- name: CS
-  link: /cs/started/cs/
 - name: Blog
   link: /blog/
 - name: Products

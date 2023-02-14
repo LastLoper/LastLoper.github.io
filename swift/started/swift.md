@@ -1,13 +1,15 @@
 ---
 layout: page
 menubar: swift_menu
-title: 애플의 강력한 프로그래밍 언어, Swift
+title: iOS앱 개발 언어, Objective-C와 Swift의 특징
 subtitle: Fast, Safe, Expressive
 show_sidebar: false
-toc: false
+toc: true
 hero_image: /img/swift/swift_hero2.png
 hero_height: is-medium
 ---
+
+## 스위프트(Swift)
 
 애플 WWDC14에서 공개한 프로그래밍 언어 Swift.
 
@@ -18,8 +20,6 @@ hero_height: is-medium
 어느정도 하위 안정성을 보장하고 있어 Objective-C 코드를 혼용해서 프로그래밍할 수 있다.
 
 <br/>
-
-## 언어적 특징
 
 ### 1. 신속성(Fast)
 
@@ -57,6 +57,8 @@ hero_height: is-medium
 - Protocol과 Extention의 조합으로 인해 유지보수와 재사용 측면이 강화되었다.
 
 <br/>
+
+## 옵젝씨(Objective-C)
 
 ## 출처
 - [나무위키](https://namu.wiki/w/Swift)

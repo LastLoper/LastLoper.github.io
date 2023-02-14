@@ -1,8 +1,7 @@
 - label: Started
   items:
-    - name: Swift의 특징
+    - name: iOS개발언어
       link: /swift/started/swift/
-
 - label: Grammer
   items:
     - name: Control Flow
