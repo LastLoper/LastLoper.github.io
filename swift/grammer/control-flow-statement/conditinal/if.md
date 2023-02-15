@@ -4,7 +4,7 @@ menubar: control_flow_menu
 title: if - else if - else
 subtitle: 참과 거짓을 구분하는 조건문
 show_sidebar: false
-toc: false
+toc: true
 hero_image: /img/control-flow/if-hero.png
 hero_height: is-medium
 hero_darken: true
