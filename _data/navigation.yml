@@ -14,8 +14,8 @@
       link: /kotlin/started/kotlin/
     - name: Java
       link: /java/started/java/
-    - name: Android Studio
-      link: /android-studio/
+    # - name: Android Studio
+    #   link: /android-studio/
 - name: CS
   link: /cs/started/cs/
 - name: Network
