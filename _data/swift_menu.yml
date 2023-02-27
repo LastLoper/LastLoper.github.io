@@ -3,7 +3,7 @@
     - name: Swift
       link: /swift/started/swift/
     - name: Objective-C
-      link: /swift/started/swift/
+      link: /objective-c/started/objective-c/
 - label: Grammer
   items:
     - name: Control Flow
