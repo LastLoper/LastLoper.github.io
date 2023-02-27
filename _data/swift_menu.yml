@@ -1,6 +1,8 @@
 - label: Started
   items:
-    - name: iOS개발언어
+    - name: Swift
+      link: /swift/started/swift/
+    - name: Objective-C
       link: /swift/started/swift/
 - label: Grammer
   items:
