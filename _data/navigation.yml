@@ -1,6 +1,8 @@
 - name: iOS
   link: /ios/started/ios/
   dropdown: 
+    - name: iOS
+      link: /ios/started/ios/
     - name: 개발언어
       link: /swift/started/swift/
     - name: RxSwift
@@ -10,6 +12,8 @@
 - name: Android
   link: /aos/started/aos/
   dropdown:
+    - name: Android
+      link: /aos/started/aos/
     - name: Kotlin
       link: /kotlin/started/kotlin/
     - name: Java
