@@ -9,10 +9,11 @@ hero_height: is-medium
 
 ## What's new
 
-## iOS
+## iOS(2023.3.14일 기준)
 
-2023.3.14일 기준 
 Xcode 버전 14.2
+
 iOS SDK 버전 16
+
 
 ## aOS
