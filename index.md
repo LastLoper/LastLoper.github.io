@@ -13,7 +13,11 @@ hero_height: is-medium
 
 Xcode 버전 14.2
 
-iOS SDK 버전 16
+iOS 16
 
 
-## aOS
+## Android(2023.3.15일 기준)
+
+Android Studio Electric Eel
+
+Android 14
